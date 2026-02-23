@@ -39,9 +39,14 @@ I design complete database systems, optimize queries under load, simulate failur
 
 Large-scale structured sales dataset analysis with optimized queries, filtered dashboards, and performance-tested reporting.
 
+---
+
 ## 📊 GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegobreton-dba)](https://github.com/diegobreton-dba/github-readme-stats)
+<a href="https://github.com/diegobreton-dba">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=diegobreton-dba&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="145em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=diegobreton-dba&layout=compact&langs_count=8&theme=dark"/>
+</a>
 
 ---
 
